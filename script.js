@@ -22,7 +22,7 @@ function calcular() {
 }
 
 function qtdCarne(duracao) {
-    return duracao >= 6 ? 700 : 500
+     return duracao >= 6 ? 700 : 500
 }
 
 function qtdCerveja(duracao) {
