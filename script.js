@@ -1,5 +1,3 @@
-
-
 var inputAdultos = document.getElementById("inputAdultos")
 var inputCriancas = document.getElementById("inputCriancas")
 var inputDuracao = document.getElementById("inputDuracao")
@@ -24,7 +22,7 @@ function calcular() {
 }
 
 function qtdCarne(duracao) {
-     
+    return duracao >= 6 ? 700 : 500
 }
 
 function qtdCerveja(duracao) {
@@ -34,5 +32,3 @@ function qtdCerveja(duracao) {
 function qtdBebida(duracao) {
     return duracao > 6 ? 1.5 : 1
 }
-
-
