@@ -28,3 +28,5 @@ git clone https://github.com/devmotas/churrasco
 # Autor
 
 Gustavo Philippe Militão Mota
+
+https://www.linkedin.com/in/devmotas
